@@ -1,0 +1,11 @@
+{
+  "name": "Current Time Extension",
+  "version": "1.0",
+  "description": "Time Extension!",
+  "permissions": ["tabs"],
+  "browser_action": {
+	"default_icon": "sc.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
